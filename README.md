@@ -1,1 +1,1 @@
-# webdev-2025-tasks
+## Webdev 2025 course tasks
